@@ -1,3 +1,8 @@
+
+Notebook based on Kaggle Competition
+https://www.kaggle.com/c/march-madness-analytics-2020/data
+
+
 There's a reason why it's called March Madness®. Upsets happen, underdogs become "cinderellas," and games that analysts expected to be blowouts become nail-biters through the final seconds. A team's competitiveness is what keeps games exciting and the tournament truly "mad."
 
 In addition to the predictive modeling competitions we typically host (NCAA Men's and Women’s), we are hosting a separate competition using Kaggle Notebooks that challenges you to present an exploratory analysis of the “Madness.” Can you quantify competitiveness? Can you explain "cinderella…ness"?
