@@ -3,6 +3,11 @@ Notebook based on Kaggle Competition
 https://www.kaggle.com/c/march-madness-analytics-2020/data
 
 
+1.Data Preprocessing File consist how I have structured the data to train to my model
+2.Visualization - consists of pltots for insights 
+3.Analytical Model - Consists of Model that I have developed using keras to predict the tournment match results
+
+
 There's a reason why it's called March Madness®. Upsets happen, underdogs become "cinderellas," and games that analysts expected to be blowouts become nail-biters through the final seconds. A team's competitiveness is what keeps games exciting and the tournament truly "mad."
 
 In addition to the predictive modeling competitions we typically host (NCAA Men's and Women’s), we are hosting a separate competition using Kaggle Notebooks that challenges you to present an exploratory analysis of the “Madness.” Can you quantify competitiveness? Can you explain "cinderella…ness"?
