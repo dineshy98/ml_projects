@@ -4,7 +4,9 @@ https://www.kaggle.com/c/march-madness-analytics-2020/data
 
 
 1.Data Preprocessing File consist how I have structured the data to train to my model
+
 2.Visualization - consists of pltots for insights 
+
 3.Analytical Model - Consists of Model that I have developed using keras to predict the tournment match results
 
 
